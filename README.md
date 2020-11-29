@@ -10,7 +10,7 @@ use issues section for questions, comments, "add mine" requests and, well... iss
  vibedivide---https://github.com/vibedivide/shitsploit-client-release  <-- i use                                                                                    
      ZaResX---https://github.com/ZaResX/KrunkerZares                                                                                                   
   DarkDevvv---https://github.com/DarkDevvv/HUE.GGKrunkerCheat                                                                                                  
-  ? ? ? ? ?---dogeware.cheems.art/ ---not working right now                                                                                                  
+  ? ? ? ? ?---dogeware.cheems.art/ ---not working right now... update soon?                                                                                                  
   
   
-  that will do it, do it go take over the world!                                                                                                   
+  that will do it, go take over the world!                                                                                                   
