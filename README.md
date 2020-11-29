@@ -13,4 +13,4 @@ use issues section for questions, comments, "add mine" requests and, well... iss
   ? ? ? ? ?---dogeware.cheems.art/ ---not working right now
   
   
-  that will do it, do it go take over the world!
+  that will do it, do it go take over the world! 
