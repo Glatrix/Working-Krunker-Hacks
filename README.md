@@ -14,3 +14,5 @@ use issues section for questions, comments, "add mine" requests and, well... iss
   
   
   that will do it, go take over the world!                                                                                                   
+
+ps... if you could let me know if a hacks does not work or if you find a working one i have not listed by telling me in the issues section, and star this, it would help me keep it going and help others find working hacks.  Thank You!
